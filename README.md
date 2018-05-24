@@ -1,3 +1,3 @@
 # messageBoard
 <hr>
-a  message board project for study
+<h1>a  message board by django and bootcss<h1>
